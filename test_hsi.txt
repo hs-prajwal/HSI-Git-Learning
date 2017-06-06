@@ -1,2 +1,5 @@
 test hsi git
-test hsi git
+<<<<<<< HEAD
+=======
+Checkking whether local chnages are working.
+>>>>>>> cdb9c645647de3a99aaa6936c1a8fa3472a472f1
